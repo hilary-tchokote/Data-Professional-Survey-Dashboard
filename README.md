@@ -26,19 +26,6 @@ Ce projet est un tableau de bord interactif développé avec **Power BI**, perme
   
 ---
 
-## 🛠️ Données
-
-Les données utilisées proviennent d'une enquête et incluent les variables suivantes :
-
-- **Titre du poste**  
-- **Âge des participants**  
-- **Pays d'origine**  
-- **Salaire annuel**  
-- **Langage de programmation favori**  
-- **Niveau de satisfaction (travail/vie et salaire)**  
-
----
-
 ## 📈 Visualisations
 
 Le tableau de bord est structuré autour des sections suivantes :
