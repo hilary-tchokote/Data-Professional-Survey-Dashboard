@@ -12,7 +12,7 @@ Explorer les métiers de la data avec un tableau de bord interactif
 
   ## 📚 Description
 
-Ce projet est un tableau de bord interactif développé avec **Power BI**, permettant d'explorer les résultats d'une enquête menée sur les professionnels de la data. Il fournit des insights clés sur les salaires, la satisfaction professionnelle et les langages de programmation les plus utilisés.
+Ce projet est un tableau de bord interactif développé avec **Power BI** grâce à un dataset trouvé sur **Kaggle**, permettant d'explorer les résultats d'une enquête menée sur les professionnels de la data. Il fournit des insights clés sur les salaires, la satisfaction professionnelle et les langages de programmation les plus utilisés.
 
 ---
 
