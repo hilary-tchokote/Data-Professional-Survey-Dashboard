@@ -20,7 +20,7 @@ Ce projet est un tableau de bord interactif développé avec **Power BI** grâce
 
 - Visualisation des données sous forme de graphiques interactifs.
 - Analyse des salaires par métier et par genre.
-- Évaluation de la satisfaction professionnelle (équilibre travail/vie et satisfaction salariale).
+- Évaluation de la satisfaction professionnelle (équilibre vie/travail et satisfaction salariale).
 - Répartition géographique des répondants.
 - Classement des langages de programmation les plus demandés.
   
@@ -40,7 +40,7 @@ Le tableau de bord est structuré autour des sections suivantes :
 
 3. **Salaires moyens**  
    - Comparaison des salaires par métier  
-   - Analyse des écarts salariaux entre genres  
+   - Comparaison des salaires par genres  
 
 4. **Répartition géographique**  
    - Treemap des pays représentés  
@@ -69,7 +69,7 @@ Pour visualiser le tableau de bord :
 
 ## 📧 Contact
 
-Si vous avez des questions, suggestions ou souhaitez contribuer, n’hésitez pas à me contacter via :
+Si vous avez des questions ou suggestions, n’hésitez pas à me contacter via :
 
 - 📩 Email : [hilarytchokote@gmail.com](mailto:hilarytchokote@gmail.com)
 
